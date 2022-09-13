@@ -1,0 +1,28 @@
+header{
+	color: blueviolet;
+}
+/*
+.introduction {
+}*/
+.blue {
+	color: rgb(15, 15, 189);
+}
+/*.basic {
+}*/
+.center-blue {
+	color: rgb(15, 15, 189);
+}
+/*.center {
+	За задумом тут потрібно вирівняти по центру вміст в цьому класі
+}*/
+.center-red {
+	color: red;
+}
+/*.italics {
+	 За задумом тут потрібно додати курсивний шрифт до цього класу
+}*/
+.green {
+	color: green;
+}
+
+
